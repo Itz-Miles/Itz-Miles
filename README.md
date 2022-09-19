@@ -1,6 +1,6 @@
 hey! I had the inspiriation to make a README, but it quickly expired. Wake me up in the middle of the night, and we'll talk prductivity.
 
-[![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=itz-miles&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=itz-miles&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=C9D1D9&amp;bg_color=21262D&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-miles)](https://github.com/anuraghazra/github-readme-stats)-->
 ## My most frequent tools/langs/file formats:
