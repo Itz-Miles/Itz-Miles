@@ -3,7 +3,7 @@
 [![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=itz-miles&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=C9D1D9&amp;bg_color=21262D&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## My most frequent tools/langs/file formats:
+## Frequent technologies:
 _____
 <p>
   <img src="https://user-images.githubusercontent.com/95124554/191063284-1381c6be-38db-4d61-915e-1703009843b9.svg" width="80"> 
