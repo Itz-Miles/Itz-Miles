@@ -1,12 +1,27 @@
 # Hey, It'z Miles!
 
-[![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=itz-miles&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=C9D1D9&amp;bg_color=21262D&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+Im.. `still adding stuff here`
+
+Im.. `still adding stuff here`
+
+Im.. `still adding stuff here`
+
+I'm still adding stuff here.
+
+## Statistics:
+______
+
+
+[![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=itz-miles&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=C9D1D9&amp;bg_color=21262D&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-miles&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=C9D1D9&amp;bg_color=21262D&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+![](https://komarev.com/ghpvc/?username=itz-miles&label=profile+views:) `add statistical link` `add statistical link` `add statistical link` `add statistical link`
+
 
 
 ## Frequent technologies:
-_____
+______
 <p>
-  <img src="https://user-images.githubusercontent.com/95124554/191063284-1381c6be-38db-4d61-915e-1703009843b9.svg" width="80"> 
+  <img src="https://user-images.githubusercontent.com/95124554/191063284-1381c6be-38db-4d61-915e-1703009843b9.svg" width="80">
   <img src="https://user-images.githubusercontent.com/95124554/191063288-7796e55e-5ed3-4d11-8fa8-d93ee102b58b.svg" width="80"> 
   <img src="https://user-images.githubusercontent.com/95124554/191063293-b7c76e95-cebf-4c4b-b158-a24715c6b0f2.svg" width="80"> 
   <img src="https://user-images.githubusercontent.com/95124554/191063294-45b4eaf9-9019-4293-9a34-2bac5a5f6c8f.svg" width="80"> 
@@ -25,4 +40,8 @@ _____
   <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="80">
   <img src= "https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" width="80">
 </p>
+
+
+## History:
+_____
 
