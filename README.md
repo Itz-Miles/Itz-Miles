@@ -22,5 +22,7 @@ _____
   <img src= "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80">
   <img src= "https://play-lh.googleusercontent.com/_CU4h5rfQgeRP6Lvja2rVD47Xrk_rWg0j2YWBlUp03ooAWdSvp0EqJ0tHI_8nkq1qdc=w240-h480-rw" width="80">
   <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Audacity.svg/1024px-Audacity.svg.png" width="80">
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="80">
+  <img src= "https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" width="80">
 </p>
 
