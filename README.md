@@ -1,12 +1,19 @@
 # Hey, It'z Miles!
+___
+## Status
+I'm currently working on `Funkin' Minecraft`, an unannounced mod to Friday Night Funkin'.
 
-Im.. `still adding stuff here`
+I'm about to open source `VS Discord`, A mod to Friday Night Funkin' directed by `xb9fox`.
 
-Im.. `still adding stuff here`
+I'm gathering resources to make a `product webpage` describing my projects hosted by Github.
 
-Im.. `still adding stuff here`
+I'm planning to release `Parallax 3D` dependencies for popular 2D game engines like haxeflixel.
 
-I'm still adding stuff here.
+I'm thinking about making `Super Duper Mario Kart`, a mod to Mario Kart 8 deluxe.
+
+<img src="https://user-images.githubusercontent.com/95124554/196528327-13ed7819-952f-4328-90a2-d7d3a41e1daa.png" width="120"> <img src="https://user-images.githubusercontent.com/95124554/196529008-8554ffc5-8428-409f-80a4-b9f5d43af12c.jpg" width="120">
+
+
 
 ## Statistics:
 ______
@@ -15,7 +22,6 @@ ______
 [![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=itz-miles&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=C9D1D9&amp;bg_color=21262D&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-miles&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=C9D1D9&amp;bg_color=21262D&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![](https://komarev.com/ghpvc/?username=itz-miles&label=profile+views:) `add statistical link` `add statistical link` `add statistical link` `add statistical link`
-
 
 
 ## Frequent technologies:
