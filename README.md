@@ -9,10 +9,9 @@ I'm gathering resources to make a `product webpage` describing my projects hoste
 
 I'm planning to release `Parallax 3D` dependencies for popular 2D game engines like haxeflixel.
 
-I'm thinking about making `Super Duper Mario Kart`, a mod to Mario Kart 8 deluxe.
+I'm learning GML so I can modify `Mineimator` to support sprite atlases, integrate custom 3d objs, and export complex assets like baked textures and meshes.
 
-<img src="https://user-images.githubusercontent.com/95124554/196528327-13ed7819-952f-4328-90a2-d7d3a41e1daa.png" width="120"> <img src="https://user-images.githubusercontent.com/95124554/196529008-8554ffc5-8428-409f-80a4-b9f5d43af12c.jpg" width="120">
-
+<img src="https://user-images.githubusercontent.com/95124554/222494443-e4dbe58f-a873-4c2a-b4f2-1103d3c763d8.png" width="120"> <img src="https://user-images.githubusercontent.com/95124554/196529008-8554ffc5-8428-409f-80a4-b9f5d43af12c.jpg" width="120">
 
 
 ## Statistics:
@@ -21,7 +20,11 @@ ______
 
 [![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=itz-miles&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=C9D1D9&amp;bg_color=21262D&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-miles&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=C9D1D9&amp;bg_color=21262D&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-![](https://komarev.com/ghpvc/?username=itz-miles&label=profile+views:) `add statistical link` `add statistical link` `add statistical link` `add statistical link`
+![](https://komarev.com/ghpvc/?username=itz-miles&label=PROFILE+VIEWS:&style=plastic) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiJn3MxuIm8299uy34kTLHQ?label=SUSCRIBE&style=plastic) ![Twitter Follow](https://img.shields.io/twitter/follow/Itz_MilesDev?color=%2300ccff&label=FOLLOW%20%40It%27zMilesDev&logo=twitter&logoColor=%2300ccff&style=plastic) ![GitHub followers](https://img.shields.io/github/followers/Itz-Miles?color=ffffff&label=FOLLOW%20Itz-Miles&logo=github&logoColor=ffffff&style=plastic) ![GitHub followers](https://img.shields.io/github/followers/Itz-NOT-Miles?color=ffffff&label=FOLLOW%20Itz-NOT-Miles&logo=github&logoColor=ffffff&style=plastic)
+
+
+
+
 
 
 ## Frequent technologies:
