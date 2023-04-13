@@ -39,16 +39,15 @@ ______
   <img src="https://user-images.githubusercontent.com/95124554/191063303-3512cc5c-9cb7-4206-9943-556764652d3f.svg" width="80"> 
   <img src="https://user-images.githubusercontent.com/95124554/191063307-965fb282-27f4-4384-a49d-cd00f32e0f5b.svg" width="80"> 
   <img src="https://user-images.githubusercontent.com/95124554/191063309-f98d13cf-f257-4a6d-8fbc-5ba661829671.svg" width="80"> 
-  <img src="https://user-images.githubusercontent.com/95124554/191080400-6ed4f4d9-c088-4f6d-849f-f2b1f2316177.png" width="80"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="80"> 
   <img src="https://www.mineimator.com/images/logo.png" width="80"> 
   <img src= "https://user-images.githubusercontent.com/95124554/191087697-da536393-9993-4aea-bc8b-a1a2d7021b92.png" width="80">
   <img src= "https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" width="80">
   <img src= "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80">
-  <img src= "https://play-lh.googleusercontent.com/_CU4h5rfQgeRP6Lvja2rVD47Xrk_rWg0j2YWBlUp03ooAWdSvp0EqJ0tHI_8nkq1qdc=w240-h480-rw" width="80">
+  <img src= "https://pixlr.com/favicon.svg" width="80">
   <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Audacity.svg/1024px-Audacity.svg.png" width="80">
   <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="80">
   <img src= "https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" width="80">
-</p>
   <img src= "https://upload.wikimedia.org/wikipedia/commons/1/15/LMMS_logo.svg" width="80">
 </p>
 
