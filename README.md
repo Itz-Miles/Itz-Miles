@@ -1,13 +1,13 @@
 # Hey, It'z Miles!
 ___
 ## Status
-I'm currently working on `Funkin' Minecraft`, an unannounced mod to Friday Night Funkin'.
+I'm currently working on `Funkin' Minecraft`, based on Friday Night Funkin'.
 
 I'm about to open source `VS Discord`, A mod to Friday Night Funkin' directed by `xb9fox`.
 
 I'm gathering resources to make a `product webpage` describing my projects hosted by Github.
 
-I'm planning to release `Parallax 3D` dependencies for popular 2D game engines like haxeflixel.
+I'm planning to release my `Parallax3D` haxelib for popular 2D game engines like haxeflixel.
 
 I'm learning GML so I can modify `Mineimator` to support sprite atlases, integrate custom 3d objs, and export complex assets like baked textures and meshes.
 
