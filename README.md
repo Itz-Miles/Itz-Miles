@@ -40,7 +40,8 @@ ______
   <img src="https://user-images.githubusercontent.com/95124554/191063307-965fb282-27f4-4384-a49d-cd00f32e0f5b.svg" width="80"> 
   <img src="https://user-images.githubusercontent.com/95124554/191063309-f98d13cf-f257-4a6d-8fbc-5ba661829671.svg" width="80"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="80"> 
-  <img src="https://www.mineimator.com/images/logo.png" width="80"> 
+  <img src="https://i.imgur.com/nYPi7RB.png" width="80"> 
+  <img src="https://avatars.githubusercontent.com/u/43118186?s=200&v=4" width="80px">
   <img src= "https://user-images.githubusercontent.com/95124554/191087697-da536393-9993-4aea-bc8b-a1a2d7021b92.png" width="80">
   <img src= "https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" width="80">
   <img src= "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80">
