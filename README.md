@@ -3,15 +3,13 @@ ___
 ## Status
 I'm currently working on `Funkin' Minecraft`, based on Friday Night Funkin'.
 
-I'm about to open source `VS Discord`, A mod to Friday Night Funkin' directed by `xb9fox`.
-
 I'm gathering resources to make a `product webpage` describing my projects hosted by Github.
 
 I'm planning to release my `Parallax3D` haxelib for popular 2D game engines like haxeflixel.
 
 I'm learning GML so I can modify `Mineimator` to support sprite atlases, integrate custom 3d objs, and export complex assets like baked textures and meshes.
 
-<img src="https://user-images.githubusercontent.com/95124554/222494443-e4dbe58f-a873-4c2a-b4f2-1103d3c763d8.png" width="120"> <img src="https://user-images.githubusercontent.com/95124554/196529008-8554ffc5-8428-409f-80a4-b9f5d43af12c.jpg" width="120">
+<img src="https://user-images.githubusercontent.com/95124554/222494443-e4dbe58f-a873-4c2a-b4f2-1103d3c763d8.png" width="120">
 
 
 ## Statistics:
