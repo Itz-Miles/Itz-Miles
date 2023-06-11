@@ -1,7 +1,7 @@
 # Hey, It'z Miles!
 ___
 ## Status
-* I'm currently working on `Future Bass' Funkin'`, based on Friday Night Funkin'.
+* I'm currently working on `Future Bass Funkin'`, based on Friday Night Funkin'.
 
 * I'm halting my work on `Funkin' Minecraft` until Future Bass Funkin' is finished.
 
