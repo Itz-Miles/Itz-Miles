@@ -16,9 +16,9 @@ ___
 
 ## Public Statistics
 
-| ![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=itz-miles&show_icons=true&title_color=fff&icon_color=79ff97&text_color=C9D1D9&bg_color=21262D&show_icons=true&count_private=true&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-miles&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=C9D1D9&bg_color=21262D&count_private=true) |
-| :---: | :---: |
-| GitHub Stats | Top Languages |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-miles&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=C9D1D9&bg_color=21262D&count_private=true) |
+| :---: |
+| Top Languages |
 
 <br>
 
