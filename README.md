@@ -1,7 +1,8 @@
+<!--
 <div align="center">
 <h1> <img style="vertical-align: text-top;" height="48px" src="https://avatars.githubusercontent.com/u/95124554"> Hey there, It'z Miles! </h1>
 </div>
-
+-->
 * ### Currently mastering the `R programming language` at a thrilling pace!
   
 * ### Just about to unveil `Parallax3D` for popular 2D game engines like haxeflixel.
