@@ -21,10 +21,10 @@
 
 ![](https://komarev.com/ghpvc/?username=itz-miles&label=PROFILE+VIEWS:&style=plastic) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiJn3MxuIm8299uy34kTLHQ?label=SUBSCRIBE&style=plastic) ![Twitter Follow](https://img.shields.io/twitter/follow/Itz_MilesDev?color=%2300ccff&label=FOLLOW%20%40It%27zMilesDev&logo=twitter&logoColor=%2300ccff&style=plastic) ![GitHub followers](https://img.shields.io/github/followers/Itz-Miles?color=ffffff&label=FOLLOW%20Itz-Miles&logo=github&logoColor=ffffff&style=plastic) ![GitHub followers](https://img.shields.io/github/followers/Itz-NOT-Miles?color=ffffff&label=FOLLOW%20Itz-NOT-Miles&logo=github&logoColor=ffffff&style=plastic)
 
+
 <div align="center">
-
-## Frequent technologies
-
+<details>
+<summary>Frequent technologies</summary>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95124554/191063284-1381c6be-38db-4d61-915e-1703009843b9.svg" width="80px">
   <img src="https://user-images.githubusercontent.com/95124554/191063288-7796e55e-5ed3-4d11-8fa8-d93ee102b58b.svg" width="80px"> 
@@ -49,5 +49,6 @@
   <img src="https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" width="80px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/LMMS_logo.svg" width="80px">
 </p>
-
+</details>
 </div>
+
