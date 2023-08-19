@@ -11,17 +11,13 @@
 
 <div align="center">
 
-## Public Statistics
+<details>
+  <summary> Public Statistics </summary>
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-miles&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=C9D1D9&bg_color=21262D&count_private=true) |
-| :---: |
-| Top Languages |
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=itz-miles&label=PROFILE+VIEWS:&style=plastic) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiJn3MxuIm8299uy34kTLHQ?label=SUBSCRIBE&style=plastic) ![Twitter Follow](https://img.shields.io/twitter/follow/Itz_MilesDev?color=%2300ccff&label=FOLLOW%20%40It%27zMilesDev&logo=twitter&logoColor=%2300ccff&style=plastic) ![GitHub followers](https://img.shields.io/github/followers/Itz-Miles?color=ffffff&label=FOLLOW%20Itz-Miles&logo=github&logoColor=ffffff&style=plastic) ![GitHub followers](https://img.shields.io/github/followers/Itz-NOT-Miles?color=ffffff&label=FOLLOW%20Itz-NOT-Miles&logo=github&logoColor=ffffff&style=plastic)
-
-
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-miles&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=C9D1D9&bg_color=21262D&count_private=true) | ![](https://komarev.com/ghpvc/?username=itz-miles&label=PROFILE+VIEWS:&style=plastic) <br> ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiJn3MxuIm8299uy34kTLHQ?label=SUBSCRIBE&style=plastic) <br> ![Twitter Follow](https://img.shields.io/twitter/follow/Itz_MilesDev?color=%2300ccff&label=FOLLOW%20%40It%27zMilesDev&logo=twitter&logoColor=%2300ccff&style=plastic) <br> ![GitHub followers](https://img.shields.io/github/followers/Itz-Miles?color=ffffff&label=FOLLOW%20Itz-Miles&logo=github&logoColor=ffffff&style=plastic) |
+| :---: | :---: |
+| Top Languages | My Socials |
+</details>
 <div align="center">
 <details>
 <summary>Frequent technologies</summary>
@@ -51,4 +47,3 @@
 </p>
 </details>
 </div>
-
