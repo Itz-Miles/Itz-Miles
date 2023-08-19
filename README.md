@@ -1,13 +1,12 @@
 # Hey, It'z Miles!
-___
-## Status
-* I'm currently learning the `R programming language` at a frightening pace!
+
+* ### I'm currently learning the `R programming language` at a frightening pace!
   
-* I'm about to release `Parallax3D` for popular 2D game engines like haxeflixel.
+* ### I'm about to release `Parallax3D` for popular 2D game engines like haxeflixel.
 
-* I'm researching low-level 3D graphics programming so I can make an `armory3d` Funkin' engine!
+* ### I'm researching low-level 3D graphics programming so I can make an `armory3d` Funkin' engine!
 
-* I'm always putting stuff together for my `portfolio webpage` showcasing my experience.
+* ### I'm always putting stuff together for my `portfolio webpage` showcasing my experience.
 
 
 <div align="center">
