@@ -3,13 +3,13 @@
 <h1> <img style="vertical-align: text-top;" height="48px" src="https://avatars.githubusercontent.com/u/95124554"> Hey there, It'z Miles! </h1>
 </div>
 -->
-* ### Currently mastering the `R programming language` at a thrilling pace!
+* ### Currently mastering Juila, Python, and R as part of my `data scientist` certification
   
-* ### Just about to unveil `Parallax3D` for popular 2D game engines like haxeflixel
+* ### Just about to unveil `ParallaxLT`, a non-linear graphics transformation library for popular 2D game engines
 
-* ### Researching low-level 3D graphics programming so I can make an `armory3d` Funkin' engine!
+* ### Bringing changes to K-12 cirriculum to include data science on the Utah Education board's behalf
 
-* ### Always putting stuff together for my `portfolio webpage` showcasing my work experience
+* ### Putting my combined accomplishments in my `portfolio webpage`, soon to be hosted by Github Pages
 
 
 <div align="center">
