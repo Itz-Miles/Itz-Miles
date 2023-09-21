@@ -1,6 +1,6 @@
 <!--
 <div align="center">
-<h1> <img style="vertical-align: text-top;" height="48px" src="https://avatars.githubusercontent.com/u/95124554"> Hey there, It'z Miles! </h1>
+<h1> <img style="vertical-align: text-top;" height="48px" src="> Hey there, It'z Miles! </h1>
 </div>
 -->
 * ### Currently mastering Juila, Python, and R as part of my `data science` certification
