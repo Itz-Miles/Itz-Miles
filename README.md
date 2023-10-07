@@ -1,12 +1,8 @@
-<!--
-<div align="center">
-<h1> <img style="vertical-align: text-top;" height="48px" src="> Hey there, It'z Miles! </h1>
-</div>
--->
-* ### Currently mastering Juila, Python, and R as part of my `data science` certification
-  
-* ### Just about to unveil `ParallaxLT`, a non-linear graphics transformation library for 2D game engines
 
+* ### Just unveiled `ParallaxLT`, a linear transformations haxelib for Haxeflixel
+
+* ### Currently mastering Juila, Python, F, and R as part of my `data science` certification
+  
 * ### Bringing change to K-12 cirriculum to include data science on the Utah Education board's behalf
 
 * ### Listing my accomplishments in my `portfolio webpage`, soon to be hosted by Github Pages
