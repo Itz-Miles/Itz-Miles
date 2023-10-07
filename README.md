@@ -7,6 +7,8 @@
 
 * ### Listing my accomplishments in my `portfolio webpage`, soon to be hosted by Github Pages
 
+
+<div align="center">
 <h2>Frequent technologies</h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95124554/191063284-1381c6be-38db-4d61-915e-1703009843b9.svg" width="80px">
@@ -32,14 +34,11 @@
   <img src="https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" width="80px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/LMMS_logo.svg" width="80px">
 </p>
-</div>
-
 <div align="center">
-
- <h2>Public Statistics</h2>
+<h2>Public Statistics</h2>
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-miles&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=C9D1D9&bg_color=21262D&count_private=true) | ![](https://komarev.com/ghpvc/?username=itz-miles&label=PROFILE+VIEWS:&style=plastic) <br> ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiJn3MxuIm8299uy34kTLHQ?label=SUBSCRIBE&style=plastic) <br> ![Twitter Follow](https://img.shields.io/twitter/follow/Itz_MilesDev?color=%2300ccff&label=FOLLOW%20%40It%27zMilesDev&logo=twitter&logoColor=%2300ccff&style=plastic) <br> ![GitHub followers](https://img.shields.io/github/followers/Itz-Miles?color=ffffff&label=FOLLOW%20Itz-Miles&logo=github&logoColor=ffffff&style=plastic) |
 | :---: | :---: |
 | Top Languages | My Socials |
 
-<div align="center">
+</div>
