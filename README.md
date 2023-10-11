@@ -1,12 +1,15 @@
 
-* ### Just unveiled `ParallaxLT`, a linear transformations haxelib for Haxeflixel
+# Hey contribitutors, It'z_Miles!
 
-* ### Currently mastering Juila, Python, F, and R as part of my `data science` certification
-  
-* ### Bringing change to K-12 cirriculum to include data science on the Utah Education board's behalf
+I'm a casual programmer who's about to start looking for a cool place to commit. New framework? I'll learn it ASAP. Tight shedule? I work overtime!
 
-* ### Listing my accomplishments in my `portfolio webpage`, soon to be hosted by Github Pages
+* I've just unveiled `ParallaxLT`, a linear transformations haxelib for Haxeflixel
 
+* I'm currently mastering Juila, Python, F, and R as part of my `data science` certification
+
+* Speaking at DOMO somehow got `Utah's Education Board` interested in Data Science for K-12 students!
+
+* I'll eventually list accomplishments at my `portfolio webpage`, soon to be hosted by Github Pages
 
 <div align="center">
 <h2>My Ever-Growing Tech Stack</h2>
