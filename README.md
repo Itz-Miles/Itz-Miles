@@ -9,7 +9,7 @@
 
 
 <div align="center">
-<h2>Frequent technologies</h2>
+<h2>My Ever-Growing Tech Stack</h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95124554/191063284-1381c6be-38db-4d61-915e-1703009843b9.svg" width="80px">
   <img src="https://user-images.githubusercontent.com/95124554/191063288-7796e55e-5ed3-4d11-8fa8-d93ee102b58b.svg" width="80px"> 
@@ -22,10 +22,10 @@
   <img src="https://user-images.githubusercontent.com/95124554/191063309-f98d13cf-f257-4a6d-8fbc-5ba661829671.svg" width="80px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="80px">
   <img src="https://www.r-project.org/logo/Rlogo.svg" width="80px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="80px"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="80px">
   <img src="https://i.imgur.com/nYPi7RB.png" width="80px"> 
-  <img src="https://avatars.githubusercontent.com/u/43118186?s=200&v=4" width="80px">
   <img src="https://user-images.githubusercontent.com/95124554/191087697-da536393-9993-4aea-bc8b-a1a2d7021b92.png" width="80px">
+  <img src = "https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" width = "80px">
   <img src="https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" width="80px">
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px">
   <img src="https://pixlr.com/favicon.svg" width="80px">
