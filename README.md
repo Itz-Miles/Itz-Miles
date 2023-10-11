@@ -1,5 +1,5 @@
 
-# Hey contribitutors, It'z_Miles! 
+# Hey contributors, It'z_Miles! 
 
 I'm a casual programmer turned fanatic who's about to start looking for a cool place to commit.
 
