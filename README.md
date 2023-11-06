@@ -43,6 +43,7 @@ I'm a casual programmer turned fanatic who's about to start looking for a cool p
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="80px"></td>
     <td><img src="https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" width="80px"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/LMMS_logo.svg" width="80px"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="80px"></td>
   </tr>
 </table>
 
