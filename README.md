@@ -63,8 +63,11 @@ I'm going to document feats with my `portfolio webpage`, hosted soon by Github P
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Audacity.svg/1024px-Audacity.svg.png" width="80px"></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="80px"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/LMMS_logo.svg" width="80px"></td>
+    <td><img src ="https://fmctrainingnetwork.com/wp-content/uploads/2022/05/adobe-audition-4238628-3516501.webp" width="80px"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="80px"></td>
+    <td><img src="https://static.wikia.nocookie.net/logopedia/images/1/1c/Shotcut_icon.svg/revision/latest?cb=20231204173533" width="80px"></td>
+
   </tr>
 </table>
 
