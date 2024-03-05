@@ -28,10 +28,12 @@ I'm going to document feats with my `portfolio webpage`, hosted soon by Github P
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/95124554/191063288-7796e55e-5ed3-4d11-8fa8-d93ee102b58b.svg" width="80px"></td>
+     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/261px-Official_YAML_Logo.svg.png" width="80px"></td>
     <td><img src="https://user-images.githubusercontent.com/95124554/191063284-1381c6be-38db-4d61-915e-1703009843b9.svg" width="80px"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="80px"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="80px"></td>
     <td><img src="https://www.r-project.org/logo/Rlogo.svg" width="80px"></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/261px-Official_YAML_Logo.svg.png" width="80px"></td>
+
   </tr>
   <tr>
     <td colspan="6" align="center"><b>Recreational Languages</b></td>
