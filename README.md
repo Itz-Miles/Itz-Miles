@@ -51,21 +51,21 @@ I'm going to document feats with my `portfolio webpage`, hosted soon by Github P
     <td colspan="6" align="center"><b>Design and Multimedia</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://i.imgur.com/nYPi7RB.png" width="80px"></td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/95124554/191087697-da536393-9993-4aea-bc8b-a1a2d7021b92.png" width="80px"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" width="80px"></td>
-    <td align="center"><img src="https://pixlr.com/favicon.svg" width="80px"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="80px"></td>
-     <td align="center"><img src="https://www.piskelapp.com/static/resources/favicon.png" width="80px"></td>
+    <td align="center"><img src="https://i.imgur.com/nYPi7RB.png" width="80px"><br>Mineimator</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/95124554/191087697-da536393-9993-4aea-bc8b-a1a2d7021b92.png" width="80px"><br>Blender</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" width="80px"><br>Cinema4D</td>
+    <td align="center"><img src="https://pixlr.com/favicon.svg" width="80px"><br>Pixlr</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="80px"><br>GIMP</td>
+     <td align="center"><img src="https://www.piskelapp.com/static/resources/favicon.png" width="80px"><br>Piskel</td>
   </tr>
 
   <tr>
     <td colspan="6" align="center"><b>Content Production</b></td>
   </tr>
   <tr>
-    <td colspan="2"  align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/LMMS_logo.svg" width="80px"></td>
-    <td colspan="2"  align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Audacity.svg/1024px-Audacity.svg.png" width="80px"></td>
-    <td colspan="2"  align="center"><img src="https://static.wikia.nocookie.net/logopedia/images/1/1c/Shotcut_icon.svg/revision/latest?cb=20231204173533" width="80px"></td>
+    <td colspan="2"  align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/LMMS_logo.svg" width="80px"><br>LMMS</td>
+    <td colspan="2"  align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Audacity.svg/1024px-Audacity.svg.png" width="80px"><br>Audacity</td>
+    <td colspan="2"  align="center"><img src="https://static.wikia.nocookie.net/logopedia/images/1/1c/Shotcut_icon.svg/revision/latest?cb=20231204173533" width="80px"><br>Shotcut</td>
 
   </tr>
 </table>
