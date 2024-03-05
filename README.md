@@ -34,15 +34,15 @@ I'm going to document feats with my `portfolio webpage`, hosted soon by Github P
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/261px-Official_YAML_Logo.svg.png" width="80px"></td>
   </tr>
   <tr>
-    <td colspan="6" align="center"><b>something to do with this </b></td>
+    <td colspan="6" align="center"><b>Recreational Languages</b></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/95124554/191063295-5bf51753-cd13-4a09-b734-1e8f8da38780.svg" width="80px"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="80px"></td>
     <td><img src="https://user-images.githubusercontent.com/95124554/191063293-b7c76e95-cebf-4c4b-b158-a24715c6b0f2.svg" width="80px"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="80px"></td>
     <td><img src="https://user-images.githubusercontent.com/95124554/191063307-965fb282-27f4-4384-a49d-cd00f32e0f5b.svg" width="80px"></td>
-    <td><img src="https://user-images.githubusercontent.com/95124554/191063309-f98d13cf-f257-4a6d-8fbc-5ba661829671.svg" width="80px"></td>
-    <td><img src="https://user-images.githubusercontent.com/95124554/191063303-3512cc5c-9cb7-4206-9943-556764652d3f.svg" width="80px"></td>
     <td><img src="https://user-images.githubusercontent.com/95124554/191063298-8e808d28-0a7f-46a1-a859-29e00c43c3c2.svg" width="80px"></td>
+    <td><img src="https://user-images.githubusercontent.com/95124554/191063303-3512cc5c-9cb7-4206-9943-556764652d3f.svg" width="80px"></td>
   </tr>
 
 
