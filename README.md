@@ -16,12 +16,12 @@ I'm going to document feats with my `portfolio webpage`, hosted soon by Github P
 
 <table align="center">
     <tr>
-    <td colspan="6" align="center"><b>Development Tools</b></td>
+    <td colspan="6" align="center"><b>Development Workflow</b></td>
   </tr>
   <tr>
-    <td colspan="2" align = "center"><img src="https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" width="80px"></td>
-    <td colspan="2"  align = "center"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px"></td>
     <td colspan="2"  align = "center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="80px"></td>
+    <td colspan="2"  align = "center"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px"></td>
+    <td colspan="2" align = "center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" width="80px"></td>
   </tr>
   <tr>
     <td colspan="6" align="center"><b>Data Science and Structures</b></td>
