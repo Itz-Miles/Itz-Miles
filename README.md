@@ -63,7 +63,7 @@ I'm going to document feats with my `portfolio webpage`, hosted soon by Github P
     <td colspan="6" align="center"><b>Content Production</b></td>
   </tr>
   <tr>
-    <td colspan="2"  align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/LMMS_logo.svg" width="80px"><br>LMMS</td>
+    <td colspan="2"  align="center"><img src="https://avatars.githubusercontent.com/u/15986773" width="80px"><br>Reaper</td>
     <td colspan="2"  align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Audacity.svg/1024px-Audacity.svg.png" width="80px"><br>Audacity</td>
     <td colspan="2"  align="center"><img src="https://static.wikia.nocookie.net/logopedia/images/1/1c/Shotcut_icon.svg/revision/latest?cb=20231204173533" width="80px"><br>Shotcut</td>
 
