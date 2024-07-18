@@ -1,6 +1,6 @@
 <div align="center">
  
-# Hey contributors, It'z_Miles! 
+# Hey contributors, Itz_Miles! 
 
 I'm a casual programmer turned fanatic who's about to start looking for a cool place to commit.
 
