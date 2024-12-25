@@ -2,15 +2,11 @@
  
 # Hey contributors, It'z Miles! 
 
-I'm a casual programmer turned fanatic who's about to start looking for a cool place to commit.
+I'm a casual dev who brings people together with my games. If we believe it, we can achieve it!
 
-I've just unveiled `ParallaxLT`, which distorts sprites to mimic 3D graphics for Haxeflixel
+I'm using Unity 6 to develop [`BEAN BAGGERS`](https://itz-miles.github.io/BEANBAGGERS/), a western-apocaliptic tower siege game for you and your friends!
 
-I'm currently mastering Juila, Python, F, and R as a part of my `data science` certification
-
-I've spoken at DOMO to get `Utah's Education Board` into Data Science for  K-12 students
-
-I'm going to document feats with my `portfolio webpage`, hosted soon by Github Pages
+I'm gaining hands-on game devlopment expereince and industry secreats from Paul McCarl of [`Granite Technical Institute!`](https://schools.graniteschools.org/gti/)
 
 <h2>My (Non-Comprehensive) Ever-Growing Tech Stack</h2>
 
